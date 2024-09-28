@@ -1,16 +1,26 @@
 # flutter_zego_vidcall_app
 
-A new Flutter project.
+Sample vidoe call apps using flutter and zegocloud ui kit sdk.
 
-## Getting Started
+## Youtube Link
 
-This project is a starting point for a Flutter application.
+[![Watch the video](https://img.youtube.com/vi/gGHq7YvYrnc/sddefault.jpg)](https://youtu.be/gGHq7YvYrnc)
 
-A few resources to get you started if this is your first Flutter project:
+https://youtu.be/gGHq7YvYrnc
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ScreenShot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Home        | Detail    |
+|--------------|-----------|
+| <img src="1.png" width="300"/> | <img src="2.png" width="300"/>      |
+
+## Contact:
+* Consultation Flutter and Endorse wa: https://wa.me/6285640899224
+* Email: saiful.bahri.tl@gmail.com
+* Instagram: https://instagram.com/codewithbahri
+* Youtube: https://youtube.com/@codewithbahri
+* Github: https://github.com/bahrie127
+* Linkedin: https://linkedin.com/in/bahrie
+* Roadmap Flutter: https://youtu.be/e2zMJqDBmoY
+* Medium: https://medium.com/@codewithbahri
+
